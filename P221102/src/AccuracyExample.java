@@ -15,7 +15,7 @@ public class AccuracyExample {
 		int totalPieces = apple1 * 10;
 		int number1 = 7;
 		
-		int temp = totalPieces - number;
+		int temp = totalPieces - number1;
 		double result1 = temp / 10.0;
 		
 		System.out.println(result1);
